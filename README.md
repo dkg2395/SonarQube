@@ -1,4 +1,7 @@
 # SonarQube
+https://github.com/dkg2395/MavenSonarJavaInEC2.git
+https://github.com/ravdy/maven
+
 SonarQube  is an open-source platform for  continuous inspection of code with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages. 
 SonarQube offers reports on duplicated code, coding standards, unit tests, code coverage, code complexity, comments, bugs, and security vulnerabilities.
 Bugs,  Security Vulnerabilities, Security Review , Maintainability(code Smells) , coverage,Duplication, Size,
